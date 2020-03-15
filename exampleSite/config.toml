@@ -75,11 +75,11 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Perum Panji Permai Blok AA 7-8"
 author = "SDIT Bina Insan Situbondo"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "binainsanstb@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+211234565523"

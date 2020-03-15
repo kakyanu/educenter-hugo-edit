@@ -1,10 +1,10 @@
 baseURL = "https://binainsanstb.netlify.com/"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = ""
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "Memadukan kurikulum nasional dengan pendidikan berbasis Islam"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -76,7 +76,7 @@ name = "Contact"
 weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+author = "SDIT Bina Insan Situbondo"
 contact_form_action = "#"
 description = "This is meta description"
 email = "info@educenter.com"
@@ -86,9 +86,9 @@ mobile = "+211234565523"
 top_header = true
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://goo.gl/maps/YK1Pic1eWGwiD4Wv6"
+map_latitude = "-7.6878306"
+map_longitude = "114.0330249,15"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -113,7 +113,7 @@ link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 [params.subscription]
 enable = true
@@ -124,18 +124,6 @@ icon = "ti-facebook"
 link = "#"
 title = "facebook"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
 icon = "ti-instagram"
 link = "#"
 title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
